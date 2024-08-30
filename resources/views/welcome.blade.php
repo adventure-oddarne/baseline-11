@@ -8,6 +8,7 @@
 <body>
 <div>
     <a href="/">/</a><br>
+    <a href="/just-one">/just-one</a><br>
     <a href="/all-caps-each">/all-caps-each</a><br>
     <a href="/all-caps-map">/all-caps-map</a><br>
     <a href="/phping">/phping</a><br>
