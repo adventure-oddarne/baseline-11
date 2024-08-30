@@ -11,6 +11,7 @@
     <a href="/all-caps-each">/all-caps-each</a><br>
     <a href="/all-caps-map">/all-caps-map</a><br>
     <a href="/phping">/phping</a><br>
+    <a href="/ping.html">/ping.html</a><br>
     <a href="/phpinfo">/phpinfo</a><br>
 </div>
 <main class="mt-6">
